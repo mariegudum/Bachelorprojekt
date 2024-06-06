@@ -6,8 +6,8 @@
 ##### Hvis det er foretaget før d. 26/5 2024, så anvendes filer, hvor alle kampe ikke er med, fordi Superligaen først sluttede på denne dato
 
 ##### Der er 4 forskellige filer:
-##### DNK (1)", "DNK (2)", "DNK (3)" og "Superliga". 
-##### "Superliga" er den fil med alle kampe, og derfor anvendes den i de fleste.
+##### #DNK (1)", "DNK (2)", "DNK (3)" og "Superliga". 
+##### "Superliga" er den fil med alle kampe, og derfor anvendes den i de fleste koder.
 
 ## Indlæsning af filer
 
